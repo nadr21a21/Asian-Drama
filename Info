@@ -1,0 +1,73 @@
+<!DOCTYPE html><html><head><style type='text/css'>html,body{padding:4px 8px 4px 8px;font-family:'sans-serif-regular';}h1,h2,h3,h4,h5,h6{font-family:'sans-serif-condensed';}a{color: #388E3C;text-decoration:underline;}img{height:auto;width:325px;margin:auto;}html,body{color:#303030;}blockquote{color:#73747d;}</style><style>video, img { max-width: 100%; } pre { max-width: 100%; overflow: auto; } table, th, td {  border: 1px solid black; border-collapse: collapse; border-spacing: 0; padding: 6px; } .header_no_underline { text-decoration: none; color: black; } h1 < a.header_no_underline { border-bottom: 2px solid #eaecef; }  h1,h2 { border-bottom: 2px solid #696969; } blockquote{padding:0px 14px;border-left:3.5px solid #dddddd;margin:4px 0}.video-container > p { margin: 0; }.task-list-item { list-style-type:none; text-indent: -1.4em; }.markor-table-of-contents { border: 1px solid black; border-radius: 2px; } .markor-table-of-contents > h1 { padding-left: 14px; margin-bottom: -8px; border-bottom: 1px solid black; } .markor-table-of-contents-list li { margin-left: -12px; } .markor-table-of-contents-list a { text-decoration: none; }</style>
+
+<link rel='stylesheet' href='file:///android_asset/prism/prism.min.css' /> <script type='text/javascript' src='file:///android_asset/prism/prism.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-markup-templating.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-bash.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-c.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-cpp.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-csharp.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-elixir.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-go.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-haskell.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-ini.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-java.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-javascript.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-json.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-kotlin.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-latex.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-liquid.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-lua.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-markup.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-perl.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-php.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-python.min.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-r.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-ruby.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-rust.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-scala.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-swift.js'></script> <script type='text/javascript' src='file:///android_asset/prism/prism-typescript.js'></script> 
+
+<style> 
+
+html,body { 
+
+ /*font-family: sans-serif-condensed;*/ 
+
+ /*font-size: 80%;*/ 
+
+} 
+
+</style> 
+
+ 
+
+ 
+
+<script type="text/javascript"> 
+
+function onPageLoaded(){ 
+
+ 
+
+/*if ('format-markdown fileext-md' == 'MarkdownTextConverter') { 
+
+ window.scrollTo(0,document.body.scrollHeight); 
+
+}*/ 
+
+ 
+
+} 
+
+</script><script> function onPageLoaded_markor_private() {
+
+onPageLoaded(); }
+
+</script></head>
+
+<body class='format-markdown fileext-md' onload='onPageLoaded_markor_private();'>
+
+<!-- USER DOCUMENT CONTENT -->
+
+<p>ارشيف مساحة الدراما الآسيوية</p>
+
+<p><a href="http://bit.ly/3xNHEpW">http://bit.ly/3xNHEpW</a></p>
+
+<hr />
+
+<p>اذا كان هنالك مسلسل او فلم تحتاجه من هذه الروابط فقط اذكر المسار</p>
+
+<p>مثال
+
+Asian-TV-4K/Doctor.Stranger.2014.2160p.WEB-DL.H265.AAC-FLTTH</p>
+
+<p>Asian-Drama 60TB</p>
+
+<p><a href="https://bit.ly/2W5jeLD">https://bit.ly/2W5jeLD</a></p>
+
+<p>Asian 100TB</p>
+
+<p><a href="http://bit.ly/2W1S7Bd">http://bit.ly/2W1S7Bd</a></p>
+
+<hr />
+
+<p>Tuesday, August 17, 2021</p>
+
+<!-- USER DOCUMENT CONTENT END -->
+
+</body></html>
